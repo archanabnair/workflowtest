@@ -1,4 +1,4 @@
 # workflowtest
 
 
-<img width="800" height="400" src="https://github.com/archanabnair/workflowtest/blob/master/img/gitFlow.jpg">
+<img width="1076" height="816" src="https://github.com/archanabnair/workflowtest/blob/master/img/gitFlow.jpg">
